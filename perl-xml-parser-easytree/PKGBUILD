@@ -2,10 +2,10 @@
 
 pkgname=perl-xml-parser-easytree
 pkgver=0.01
-pkgrel=1
+pkgrel=2
 pkgdesc="XML::Parser::EasyTree - Easier tree style for XML::Parser"
 arch=('i686' 'x86_64')
-url="http://search.cpan.org/~ebohlman/XML-Parser-EasyTree-0.01/EasyTree.pm"
+url="http://search.cpan.org/~ebohlman/XML-Parser-EasyTree/"
 license=('PerlArtistic')
 depends=('perl>=5.004')
 options=(!emptydirs)
